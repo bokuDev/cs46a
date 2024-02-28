@@ -1,3 +1,5 @@
+// Canhui Huang
+// Exercise 4
 public class BankAccount {
     private int accountNumber;
     private String accountHolderName;

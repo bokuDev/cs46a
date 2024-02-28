@@ -1,3 +1,5 @@
+// Canhui Huang
+// Exercise 3
 public class Book {
     private String title;
     private String author;
