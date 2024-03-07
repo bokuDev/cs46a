@@ -20,7 +20,6 @@ public class SubstringCount {
         int endIndex = subString.length();
         int beginIndex = 0;
         while (endIndex <= mainString.length()) {
-            System.out.println(mainString.substring(beginIndex, endIndex));
             if (mainString.substring(beginIndex, endIndex).equals(subString)) count++;
 
             endIndex++;
