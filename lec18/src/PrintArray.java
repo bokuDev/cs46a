@@ -1,5 +1,5 @@
-public class Problem1 {
-    // Create an array of integers with the values 10,20,30,40, and 50. Print each value using a for-loop.
+public class PrintArray {
+    // 1. Create an array of integers with the values 10,20,30,40, and 50. Print each value using a for-loop.
     public static void main(String[] args) {
         int[] numbers = {10,20,30,40,50};
 
