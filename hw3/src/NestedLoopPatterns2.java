@@ -5,7 +5,7 @@
 public class NestedLoopPatterns2 {
     public static void main(String[] args) {
         final int HEIGHT = 5;
-        for (int i = 0; i < HEIGHT; i++) {
+        for (int i = 0; i < HEIGHT;) {
             String line = "*";
             for (int j = 1; j < i; j++) {
                 if (i != HEIGHT - 1) line += " ";
